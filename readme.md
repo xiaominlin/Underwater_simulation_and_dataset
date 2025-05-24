@@ -29,6 +29,7 @@ We welcome community contributions—if you're aware of valuable resources not c
 | UWSim | OpenSceneGraph | [Link](https://github.com/uji-ros-pkg/underwater_simulation) | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | UWSim-NET provides underwater simulation with network capabilities for distributed marine robotics. |
 | BlueSim | Unreal Engine | [Link](https://github.com/BlueROV/BlueSim) | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | Simulator specifically designed for Blue Robotics vehicles with realistic underwater physics and sensor modeling. |
 | Gemini | Unity3D | [Link](https://github.com/Gemini-team/Gemini) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | Provides a foundation for electromagnetic radiation based sensors (RGB, Lidar, Radar) for use in autonomous appplications. |
+| VirtualShip Maritime Simulator    | Custom | [Link](https://www.gdit.com/solutions/products/virtualship-maritime-simulator)       | ✅         | ✅            | ✅               | ✅            | ✅                   | ✅              | ✅              | Comprehensive maritime and underwater simulator for training, research, and mission rehearsal; supports advanced hydrodynamics, sensor simulation (including radar, ARPA/AIS), and unmanned vehicle operations. |
 
 ## 🗂️ Datasets
 
