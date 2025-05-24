@@ -24,7 +24,8 @@ We welcome community contributions—if you're aware of valuable resources not c
 | Stonefish | Custom | [Link](https://github.com/patrykcieslak/stonefish) | ✅ | ✅ | ✅ | ✅ | ✅ | Open-source, ROS-compatible underwater simulator with advanced physics modeling and comprehensive sensor simulation. |
 | Project DAVE | Unreal Engine 5 | [Link](https://github.com/Field-Robotics-Lab/dave) | ✅ | ✅ | ✅ | ✅ | ✅ | Project DAVE offers high-detail rendering and physics simulation for underwater vehicles and environments. |
 | UNav-Sim | Unreal Engine 5 | [Link](https://github.com/uri-ocean-robotics/unav_sim) | ✅ | ✅ | ✅ | ✅ | ✅ | Visually realistic simulator with autonomous vision-based navigation stack and synthetic data generation capabilities. |
-| MARUS | Unity3D | [Link](https://github.com/MARUSimulator/marus-core) | ✅ | ✅ | ✅ | ✅ | ✅ | ROS-compatible underwater simulator with focus on marine robotics applications and sensor integration. |
+| MARUS | Unity3D | [Link](https://github.com/MARUSimulator/marus-core) | ✅ | ✅ | ✅ | ✅ | ✅ | Features automatic annotation and dataset generation capabilities. |
+| UUVSimulator | Gazebo | [Link](https://github.com/uuvsimulator/uuv_simulator) | ✅ | ✅ | ✅ | ✅ | ✅ | ROS-compatible underwater simulator with focus on marine robotics applications and sensor integration. |
 
 ## 🗂️ Datasets
 
