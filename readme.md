@@ -42,6 +42,7 @@ We welcome community contributions—if you're aware of valuable resources not c
 | AQUALOC | [Link](https://www.lirmm.fr/aqualoc/) | 5.1 GB | 7,965 | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Dataset dedicated to underwater localization of vehicles navigating close to the seabed, including camera images for SLAM and visual odometry development. |
 | CADDY | [Link](http://www.caddian.eu/) | N/A | 10,000+ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | Underwater stereo-vision dataset for human-robot interaction in the context of diver activities, featuring diver sign language (CADDIAN) for communication with AUVs. |
 | Common Objects Underwater (COU) | [Link](https://arxiv.org/html/2502.20651v1) | N/A | N/A | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | Instance-segmented image dataset of commonly found man-made objects in multiple aquatic and marine environments, designed for underwater object detection and segmentation tasks. |
+| SINTEF Ocean underwater vehicle datasets | [Link](https://gitlab.sintef.no/aquaculture-data-sharing/underwater-vehicle-datasets) | > 100GB across 3 sets | Videos |  ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | Sonars: Sonoptix Multibeam and Ping360. Sets also contains data from various navigation sensors, e.g., DVL and USBL and data from BlueROV2 internal sensors (IMU, commanded thrust, battery etc.). Data gathered from manual and autonomous operation in live fish farms. See link for complete overview of sensors|
 
 ## 📌 How to Contribute
 
