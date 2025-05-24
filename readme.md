@@ -28,7 +28,7 @@ We welcome community contributions—if you're aware of valuable resources not c
 | UUV Simulator | Gazebo | [Link](https://github.com/uuvsimulator/uuv_simulator) | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | Gazebo-based package for underwater intervention and multi-robot simulation with accurate hydrodynamics modeling. |
 | UWSim | OpenSceneGraph | [Link](https://github.com/uji-ros-pkg/underwater_simulation) | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | UWSim-NET provides underwater simulation with network capabilities for distributed marine robotics. |
 | BlueSim | Unreal Engine | [Link](https://github.com/BlueROV/BlueSim) | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | Simulator specifically designed for Blue Robotics vehicles with realistic underwater physics and sensor modeling. |
-| Gemini | Unity3d | [Link](https://github.com/Gemini-team/Gemini) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Provides a foundation for electromagnetic radiation based sensors (RGB, Lidar, Radar) for use in autonomous appplications. |
+| Gemini | Unity3d | [Link](https://github.com/Gemini-team/Gemini) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | Provides a foundation for electromagnetic radiation based sensors (RGB, Lidar, Radar) for use in autonomous appplications. |
 
 ## 🗂️ Datasets
 
