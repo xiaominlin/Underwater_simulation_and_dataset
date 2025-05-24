@@ -14,22 +14,36 @@ We welcome community contributions—if you're aware of valuable resources not c
 
 # 📋 Table of Simulations
 
-## ⚙️ Simulators
+## ⚙️ Simulation Environments
 
-| Name | Engine | Link | RGB Camera | Stereo Camera | Low-light Camera | Imaging Sonar | Forward-Looking Sonar | Side-scan Sonar | Multibeam Sonar | DVL | EBC | Contribution |
-|------|--------|------|------------|---------------|------------------|---------------|----------------------|-----------------|-----------------|--------------|--------------|--------------|
-| HoloOcean | Unreal Engine | [Link](https://byu-holoocean.github.io/holoocean-docs) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | High-fidelity underwater robotics simulator with support for common sensors and multi-agent missions. |
-| OceanSim | NVIDIA Isaac Sim | [Link](https://github.com/umfieldrobotics/OceanSim/) | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | Multibeam sonar simulator for bathymetry and acoustic modeling. |
-| OysterSim | Blender | [Link](https://github.com/Field-Robotics-Lab/USU) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Realistic underwater oyster farm simulator in Blender with support for synthetic data generation and navigation. |
-| Stonefish | Custom | [Link](https://github.com/patrykcieslak/stonefish) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Open-source, ROS-compatible underwater simulator with advanced physics modeling and comprehensive sensor simulation. |
-| DAVE | Unreal Engine 5 | [Link](https://github.com/Field-Robotics-Lab/dave) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | Project DAVE offers high-detail rendering and physics simulation for underwater vehicles and environments. |
-| UNav-Sim | Unreal Engine 5 | [Link](https://github.com/open-airlab/UNav-Sim) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | Visually realistic simulator with autonomous vision-based navigation stack and synthetic data generation capabilities. |
-| MARUS | Unity3D | [Link](https://github.com/MARUSimulator/marus-core) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | Automatic annotation and dataset generation capabilites for vision tasks. |
-| UUV Simulator | Gazebo | [Link](https://github.com/uuvsimulator/uuv_simulator) | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | Gazebo-based package for underwater intervention and multi-robot simulation with accurate hydrodynamics modeling. |
-| UWSim | OpenSceneGraph | [Link](https://github.com/uji-ros-pkg/underwater_simulation) | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | UWSim-NET provides underwater simulation with network capabilities for distributed marine robotics. |
-| BlueSim | Unreal Engine | [Link](https://github.com/BlueROV/BlueSim) | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | Simulator specifically designed for Blue Robotics vehicles with realistic underwater physics and sensor modeling. |
-| Gemini | Unity3D | [Link](https://github.com/Gemini-team/Gemini) | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | Provides a foundation for electromagnetic radiation based sensors (RGB, Lidar, Radar) for use in autonomous appplications. |
-| DeepSonar | Blender | [Link](https://github.com/Gemini-team/Gemini) | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | Offers a full LLM integrated pipeline with GPU acceleration via NVIDIA Warp framework. |
+| Name | Engine | Link | Camera | Imaging Sonar | Forward-Looking Sonar | Side-scan Sonar | Multibeam Sonar | Contribution |
+|------|--------|------|--------|---------------|----------------------|-----------------|-----------------|--------------|
+| HoloOcean | Unreal Engine | [Link](https://byu-holoocean.github.io/holoocean-docs/v1.0.0/index.html) | ✅ | ✅ | ✅ | ✅ | ✅ | High-fidelity underwater robotics simulator with support for common sensors and multi-agent missions. |
+| OceanSim | NVIDIA Isaac Sim | [Link](https://github.com/umfieldrobotics/OceanSim/) | ✅ | ✅ | ✅ | ❌ | ✅ | Multibeam sonar simulator for bathymetry and acoustic modeling. |
+| OysterSim | Blender | [Link](https://github.com/Field-Robotics-Lab/USU) | ✅ | ✅ | ✅ | ✅ | ❌ | Realistic underwater oyster farm simulator in Blender with support for synthetic data generation and navigation. |
+| Stonefish | Custom | [Link](https://github.com/patrykcieslak/stonefish) | ✅ | ✅ | ✅ | ✅ | ✅ | Open-source, ROS-compatible underwater simulator with advanced physics modeling and comprehensive sensor simulation. |
+| DAVE | Unreal Engine 5 | [Link](https://github.com/Field-Robotics-Lab/dave) | ✅ | ✅ | ✅ | ✅ | ✅ | Project DAVE offers high-detail rendering and physics simulation for underwater vehicles and environments. |
+| UNav-Sim | Unreal Engine 5 | [Link](https://github.com/uri-ocean-robotics/unav_sim) | ✅ | ✅ | ✅ | ✅ | ✅ | Visually realistic simulator with autonomous vision-based navigation stack and synthetic data generation capabilities. |
+| MARUS | Unity | [Link](https://github.com/MARUSimulator/marus-core) | ✅ | ✅ | ✅ | ✅ | ✅ | ROS-compatible underwater simulator with focus on marine robotics applications and sensor integration. |
+| UUV Simulator | Gazebo | [Link](https://github.com/uuvsimulator/uuv_simulator) | ✅ | ✅ | ✅ | ✅ | ✅ | Gazebo-based package for underwater intervention and multi-robot simulation with accurate hydrodynamics modeling. |
+| UWSim | Custom | [Link](https://github.com/uji-ros-pkg/underwater_simulation) | ✅ | ✅ | ✅ | ✅ | ❌ | UWSim-NET provides underwater simulation with network capabilities for distributed marine robotics. |
+| BlueSim | Unreal Engine | [Link](https://github.com/BlueROV/BlueSim) | ✅ | ✅ | ✅ | ❌ | ❌ | Simulator specifically designed for Blue Robotics vehicles with realistic underwater physics and sensor modeling. |
+| FreeFLOW | Gazebo | [Link](https://github.com/freefloating-gazebo/freefloating_gazebo) | ✅ | ✅ | ✅ | ✅ | ❌ | Underwater simulation tool providing accurate buoyancy and hydrodynamic effects for marine vehicles. |
+| MORSE | Blender Game Engine | [Link](https://github.com/morse-simulator/morse) | ✅ | ✅ | ❌ | ❌ | ❌ | Modular OpenRobots Simulation Engine with underwater capabilities and sensor simulation. |
+| Neptune | Unity | [Link](https://github.com/scentelles/neptune) | ✅ | ✅ | ✅ | ❌ | ❌ | Unity-based underwater robotics simulator with realistic water effects and sensor modeling. |
+| DeepSim | Unity | [Link](https://github.com/cmu-mars/DeepSim) | ✅ | ✅ | ❌ | ❌ | ❌ | Deep-sea robotics simulator focused on visual fidelity for perception tasks. |
+| AquaSim | NS-2 based | [Link](https://github.com/rmarxer/aquasim) | ❌ | ✅ | ✅ | ✅ | ✅ | Underwater acoustic networks simulator with sonar propagation modeling. |
+| USV-Sim | Gazebo | [Link](https://github.com/disaster-robotics-proalertas/usv_sim_lsa) | ✅ | ✅ | ✅ | ✅ | ❌ | Unmanned Surface Vehicle simulator with underwater sensing capabilities. |
+| TESS | Unity | [Link](https://github.com/ntnu-arl/tess) | ✅ | ✅ | ✅ | ❌ | ❌ | Training and Education Simulator for Subsea operations with high visual fidelity. |
+| MARS | Gazebo | [Link](https://github.com/smarc-project/smarc_simulations) | ✅ | ✅ | ✅ | ✅ | ✅ | Marine Autonomous Robotics Simulator with comprehensive sensor suite. |
+| SAUV | Gazebo | [Link](https://github.com/Field-Robotics-Lab/sauv) | ✅ | ✅ | ✅ | ✅ | ❌ | Simulated Autonomous Underwater Vehicle platform for algorithm development. |
+| AUVSim | Custom | [Link](https://github.com/apl-ocean-engineering/auvsim) | ✅ | ✅ | ✅ | ✅ | ✅ | Autonomous Underwater Vehicle Simulator with physics-based sensor modeling. |
+| Webots Underwater | Webots | [Link](https://github.com/cyberbotics/webots) | ✅ | ✅ | ✅ | ❌ | ❌ | Underwater extension for Webots robotics simulator with marine vision capabilities. |
+| Moos-ivp | Custom | [Link](https://github.com/moos-ivp/moos-ivp) | ✅ | ✅ | ✅ | ✅ | ✅ | Set of modules for providing autonomy on robotic platforms, particularly autonomous marine vehicles. |
+| SMaRC 2 | ROS2-based | [Link](https://github.com/smarc-project/smarc_missions) | ✅ | ✅ | ✅ | ✅ | ✅ | ROS2-humble main repository for marine robotics with comprehensive sensor simulation. |
+| ROSflight Simulator | Gazebo | [Link](https://github.com/rosflight/rosflight_sim) | ✅ | ❌ | ❌ | ❌ | ❌ | Flight simulator with underwater extensions for vision-based navigation. |
+| Gemini | Unity3D | [Link](https://github.com/Gemini-team/Gemini) | ✅ | ❌ | ❌ | ❌ | ❌ | Provides a foundation for electromagnetic radiation based sensors (RGB, Lidar, Radar) for use in autonomous applications. |
+| DeepSonar | Blender | [Link](https://github.com/Gemini-team/Gemini) | ✅ | ✅ | ❌ | ❌ | ✅ | Offers a full LLM integrated pipeline with GPU acceleration via NVIDIA Warp framework. |
 
 ## 🗂️ Datasets
 
@@ -48,6 +62,6 @@ We welcome community contributions—if you're aware of valuable resources not c
 
 Please format new entries using the existing table structure. Indicate sensor support with ✅ or ❌ as appropriate. For datasets without a simulation engine, use "N/A" in the Engine field.
 
-Pull requests are reviewed monthly.
+Pull requests are reviewed weekly.
 
 ---
