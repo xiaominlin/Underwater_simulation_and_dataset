@@ -14,7 +14,7 @@ We welcome community contributions—if you're aware of valuable resources not c
 
 # 📋 Table of Simulations
 
-## ⚙️ Simulation Environments
+## ⚙️ Simulators
 
 | Name | Engine | Link | RGB Camera | Stereo Camera | Low-light Camera | Imaging Sonar | Forward-Looking Sonar | Side-scan Sonar | Multibeam Sonar | Contribution |
 |------|--------|------|------------|---------------|------------------|---------------|----------------------|-----------------|-----------------|--------------|
