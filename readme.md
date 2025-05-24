@@ -15,8 +15,8 @@ If you know of a valuable resource not listed here, please open a pull request o
 
 | Name        | Engine  | Link                                                                                   | Perception | State Estimation | Sensors | Contribution                                                                 |
 |-------------|---------|----------------------------------------------------------------------------------------|------------|------------------|---------|------------------------------------------------------------------------------|
-| HoloOcean   | Unreal  | [Link](https://byu-holoocean.github.io/holoocean-docs/v1.0.0/index.html)               | ✅         | ✅               | ✅      | High-fidelity underwater robotics simulator with support for common sensors and multi-agent missions. |
-| OceanSim    | Custom  | [Link](https://github.com/umfieldrobotics/OceanSim/)                                              | ✅         | ✅               | ✅      | Multibeam sonar simulator for bathymetry and acoustic modeling.             |
+| HoloOcean   | Unreal Engine  | [Link](https://byu-holoocean.github.io/holoocean-docs/v1.0.0/index.html)               | ✅         | ✅               | ✅      | High-fidelity underwater robotics simulator with support for common sensors and multi-agent missions. |
+| OceanSim    | NVIDIA Issac Sim  | [Link](https://github.com/umfieldrobotics/OceanSim/)                                              | ✅         | ✅               | ✅      | Multibeam sonar simulator for bathymetry and acoustic modeling.             |
 | OysterSim   | Blender | [Link](https://github.com/Field-Robotics-Lab/USU)                                      | ✅         | ✅               | ✅      | Realistic underwater oyster farm simulator in Blender with support for synthetic data generation and navigation. |
 
 
