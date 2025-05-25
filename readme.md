@@ -41,7 +41,6 @@ We welcome community contributions—if you're aware of valuable resources not c
 | Webots Underwater | Webots | [Link](https://github.com/cyberbotics/webots) | ✅ | ✅ | ✅ | ❌ | ❌ | Underwater extension for Webots robotics simulator with marine vision capabilities. |
 | Moos-ivp | Custom | [Link](https://github.com/moos-ivp/moos-ivp) | ✅ | ✅ | ✅ | ✅ | ✅ | Set of modules for providing autonomy on robotic platforms, particularly autonomous marine vehicles. |
 | SMaRC 2 | ROS2-based | [Link](https://github.com/smarc-project/smarc_missions) | ✅ | ✅ | ✅ | ✅ | ✅ | ROS2-humble main repository for marine robotics with comprehensive sensor simulation. |
-| ROSflight Simulator | Gazebo | [Link](https://github.com/rosflight/rosflight_sim) | ✅ | ❌ | ❌ | ❌ | ❌ | Flight simulator with underwater extensions for vision-based navigation. |
 | Gemini | Unity3D | [Link](https://github.com/Gemini-team/Gemini) | ✅ | ❌ | ❌ | ❌ | ❌ | Provides a foundation for electromagnetic radiation based sensors (RGB, Lidar, Radar) for use in autonomous applications. |
 | DeepSonar | Blender | [Link](https://github.com/Gemini-team/Gemini) | ✅ | ✅ | ❌ | ❌ | ✅ | Offers a full LLM integrated pipeline with GPU acceleration via NVIDIA Warp framework. |
 
