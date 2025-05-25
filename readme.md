@@ -19,7 +19,7 @@ We welcome community contributions—if you're aware of valuable resources not c
 | Name | Engine | Link | Camera | Imaging Sonar | Forward-Looking Sonar | Side-scan Sonar | Multibeam Sonar | Contribution |
 |------|--------|------|--------|---------------|----------------------|-----------------|-----------------|--------------|
 | HoloOcean | Unreal Engine | [Link](https://byu-holoocean.github.io/holoocean-docs/v1.0.0/index.html) | ✅ | ✅ | ✅ | ✅ | ✅ | High-fidelity underwater robotics simulator with support for common sensors and multi-agent missions. |
-| OceanSim | NVIDIA Isaac Sim | [Link](https://github.com/umfieldrobotics/OceanSim/) | ✅ | ✅ | ✅ | ❌ | ✅ | Multibeam sonar simulator for bathymetry and acoustic modeling. |
+| OceanSim | NVIDIA Isaac Sim | [Link](https://github.com/umfieldrobotics/OceanSim/) | ✅ | ✅ | ✅ | ❌ | ✅ | GPU-accelerated image and imaging sonar rendering for fast + realistic SDG. |
 | OysterSim | Blender | [Link](https://github.com/Field-Robotics-Lab/USU) | ✅ | ✅ | ✅ | ✅ | ❌ | Realistic underwater oyster farm simulator in Blender with support for synthetic data generation and navigation. |
 | Stonefish | Custom | [Link](https://github.com/patrykcieslak/stonefish) | ✅ | ✅ | ✅ | ✅ | ✅ | Open-source, ROS-compatible underwater simulator with advanced physics modeling and comprehensive sensor simulation. |
 | DAVE | Unreal Engine 5 | [Link](https://github.com/Field-Robotics-Lab/dave) | ✅ | ✅ | ✅ | ✅ | ✅ | Project DAVE offers high-detail rendering and physics simulation for underwater vehicles and environments. |
